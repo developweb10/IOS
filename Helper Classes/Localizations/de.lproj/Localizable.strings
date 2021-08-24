@@ -1,0 +1,114 @@
+/* 
+  Localizable.strings
+  Find Me
+
+  Created by Developer on 12/30/20.
+  
+*/
+
+
+//---------------------------------Login ViewController-----------------------------
+
+
+"Password must be greater than 6 digits" = "Das Passwort muss größer als 6 Ziffern sein";
+
+"There is error occured in connecting with Firebase.\nPlease try again!!!" = "Bei der Verbindung mit Firebase ist ein Fehler aufgetreten. \ NBitte versuchen Sie es erneut !!!";
+
+"Forgot Password?" = "Passwort vergessen?";
+
+"Please enter email address and we will send Reset Password mail" = "Bitte geben Sie die E-Mail-Adresse ein und wir senden Ihnen die E-Mail zum Zurücksetzen des Passworts";
+
+"Enter Email Address" = "E-Mail Adresse eingeben";
+
+"OK" = "OK";
+
+"Please accept Terms and Conditions!!!" = "Bitte akzeptieren Sie die Allgemeinen Geschäftsbedingungen !!!";
+
+
+"Alert" = "Aufmerksam";
+
+//-------------------------------------SignUp ViewCOntroller------------------------
+
+"Please enter Valid Email Address" = "Bitte geben Sie eine gültige Email Adresse an";
+
+"Both Password not matched" = "Beide Passwörter stimmen nicht überein";
+
+"Please upload PhotoID" = "Bitte laden Sie PhotoID hoch";
+
+"Choose Image" = "Wählen Sie Bild";
+
+"Camera" = "Kamera";
+
+"Gallery" = "Galerie";
+
+"Cancel" = "Stornieren";
+
+"You don't have camera" = "Du hast keine Kamera";
+
+"You don't have permission to access gallery." = "Sie haben keine Berechtigung zum Zugriff auf die Galerie.";
+
+"Male" = "Männlich";
+
+"Female" = "Weiblich";
+
+"Diverse" = "Divers";
+
+//------------------------------SetUp Action ViewController----------------------
+
+"Please login first to use feature's of the app!!" = "Bitte melden Sie sich zuerst an, um die Funktionen der App zu nutzen!";
+
+"Please upload atleast one image. You can upoad max 3 images" = "Bitte laden Sie mindestens ein Bild hoch. Sie können maximal 3 Bilder hochladen";
+
+"Please make Payment First!!!" = "Bitte zuerst bezahlen !!!";
+
+"Do you want to share this QR code with your friends?" = "Möchten Sie diesen QR-Code mit Ihren Freunden teilen?";
+
+"Yes" = "Ja";
+
+"No" = "Nein";
+
+
+//----------------------------Verification ViewController--------------------------
+
+
+
+
+
+//----------------------------ChatViewController-----------
+
+
+
+
+
+
+
+//------------------------------HomeViewController-------------------------
+
+"Put the QR code/bar code into the box and it will scan automatically" = "Geben Sie den QR-Code / Barcode in die Box ein und es wird automatisch gescannt";
+
+"New Friend Request" = "Neue Freundschaftsanfrage";
+
+
+//------------------------------SideMenu ViewController-------------------------
+
+"Logout?" = "Ausloggen?";
+
+"Are you sure you want to logout?" = "Möchten Sie sich abmelden?";
+
+"Confirm" = "Bestätigen";
+
+"Cancel" = "Stornieren";
+
+"Profile" = "Profil";
+
+"Verification" = "Verifikation";
+
+"Settings" = "Einstellungen";
+
+"Contact Us" = "Kontaktiere uns";
+
+"Are you sure you want to Delete your account?" = "Möchten Sie Ihr Konto wirklich löschen?";
+
+"Delete" = "Löschen";
+
+
