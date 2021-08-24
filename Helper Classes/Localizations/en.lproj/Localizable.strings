@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  Find Me
+
+  Created by Developer on 12/30/20.
+  
+*/
+
+
+
+//---------------------------------Login ViewController-----------------------------
+
+
+"I accept the terms and conditions" = "I accept the terms and conditions";
+
+"Submit" = "Submit";
+
+"Login" = "Login";
+
+"Username" = "Username";
+
+"Enter you user name" = "Enter you user name";
+
+"Password" = "Password";
+
+"Enter you password" = "Enter you password";
+
+"Forgot Password?" = "Forgot Password?";
+
+"LOGIN" = "LOGIN";
+
+"VERIFY" = "VERIFY";
+
+"Don't have an account?" = "Don't have an account?";
+
+"Take a look" = "Take a look";
+
+
+
+
+
+
+//-------------------------------------SignUp ViewCOntroller------------------------
+
+"Sign Up" = "Sign Up";
+
+"Upload ID" = "Upload ID";
+
+"Upload Selfie" = "Upload Selfie";
+
+"Username" = "Username";
+
+"First Name" = "First Name";
+
+"Last Name" = "Last Name";
+
+"Date Of Birth" = "Date Of Birth";
+
+"Gender" = "Gender";
+
+"Male" = "Male";
+
+"Phone No." = "Phone No.";
+
+"Email" = "Email";
+
+"Enter your Email" = "Enter your Email";
+
+"Address" = "Address";
+
+"Enter your Address" = "Enter your Address";
+
+"Password" = "Password";
+
+"Enter your Password" = "Enter your Password";
+
+"VERIFY" = "VERIFY";
+
+
+
+//------------------------------SetUp Action ViewController----------------------
+
+"Setup Action" = "Setup Action";
+
+"Upload ID" = "Upload ID";
+
+"Nick Name" = "Nick Name";
+
+"Enter your nick name" = "Enter your nick name";
+
+"CREATE QR CODE" = "CREATE QR CODE";
+
+
+
+//----------------------------Verification ViewController--------------------------
+
+"Verification Successful" = "Verification Successful";
+
+"BACK" = "BACK";
+
+
+
+//----------------------------ChatViewController-----------
+
+"Type Message..." = "Type Message...";
+
+"ACCEPT" = "ACCEPT";
+
+
